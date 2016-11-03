@@ -13,14 +13,17 @@
     border: 20px solid yellow;
     width: 200px;
     margin: auto;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 30px;
+    padding-bottom: 15px;
     display: block;
+    font-size: 10px;
+    text-align: center;
  
     
     
 }
-
 
 #uno{
     
@@ -29,7 +32,7 @@
     padding-right: 20px;
     padding-bottom: 30px;
     padding-top:  30px;
-    font-size: 12px;
+    font-size: 10px;
 }
 
 #dos{
@@ -38,8 +41,8 @@
     padding-left: 20px;
     padding-right: 20px;
     padding-bottom: 30px;
-    padding-top:  30px;
-    font-size: 12px;
+    padding-top: 30px;
+    font-size: 10px;
     
    
 }
